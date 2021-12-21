@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dsonja92
+- 👀 I’m interested in computer programming.
+- 🌱 I’m currently learning CS50x at Harvard|edX.
+- 💞️ I’m looking to collaborate with the teacher on my assignments.
+- 📫 You can reach me here or via email.
